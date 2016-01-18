@@ -1,11 +1,11 @@
 <?php
+  // Inisialisasi Awal
   require 'vendor/autoload.php';
-  
+
   $app = new \Slim\Slim();
 
-  $app->get("/", function(){
-    echo 'helloworld';
-  });
-
+  // Konfigurasi Restful API
+  
+  // Menjalankan konfigurasi
   $app->run();
 ?>
