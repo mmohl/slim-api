@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'PaperEloquent' => $baseDir . '/app/models/PaperEloquent.php',
+    'MakananEloquent' => $baseDir . '/app/models/MakananEloquent.php',
 );

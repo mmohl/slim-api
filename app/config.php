@@ -7,7 +7,7 @@
   $capsule->addConnection(array(
       'driver'    => 'mysql',
       'host'      => 'localhost',
-      'database'  => 'pos',
+      'database'  => 'final_task',
       'username'  => 'root',
       'password'  => '',
       'charset'   => 'utf8',
